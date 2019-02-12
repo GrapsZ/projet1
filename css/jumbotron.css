@@ -1,0 +1,23 @@
+body {
+    padding-top: 3.5rem;
+}
+
+.images-artistes {
+    box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+    -webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+}
+
+.coeurlike {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+.coeurlike:hover {
+    color: red;
+}
+.coeurliked {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}

@@ -1,0 +1,10 @@
+Compte utilisateur :
+
+Username : michael
+Password : motdepasse
+
+Base de données :
+Elle se trouve dans le dossier "private"
+
+Fichier config :
+Il se trouve dans le dossier "private"
